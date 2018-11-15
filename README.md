@@ -10,5 +10,5 @@ First, install pipenv. Then:
 ...
 
 pipenv install
-pipenv run "python find_close_meteorites.py"
+pipenv run "python meteors/find_close_meteorites.py"
 ...
